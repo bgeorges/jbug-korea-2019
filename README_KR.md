@@ -17,7 +17,7 @@ You will need to install the following if you want to run the examples
 
 Bootstrap your project
 
-  mvn io.quarkus:quarkus-maven-plugin:0.16.1:create \
+    mvn io.quarkus:quarkus-maven-plugin:0.16.1:create \
       -DprojectGroupId=org.acme \
       -DprojectArtifactId=getting-started \
       -DclassName="org.acme.quickstart.GreetingResource" \
