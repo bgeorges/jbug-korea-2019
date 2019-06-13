@@ -15,5 +15,14 @@ You will need to install the following if you want to run the examples
 
 ## Code Samples
 
--
+### Simple Rest
 
+### Simplified persistence with (Hibernate) Panache
+
+### Secure your app with Keycloack
+
+### Build images
+
+### Deploy on Openshift
+
+## Review development lifecycle
